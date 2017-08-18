@@ -1,4 +1,4 @@
-# Kohana-AngularJS-Gentelella-Dashboard
+# Kohana-AngularJS-Gentelella-Dashboard (Alpha)
 
 Kohana-3.3.4
 
